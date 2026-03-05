@@ -14,7 +14,7 @@ export default function Home() {
           事前課題が完了しました！
         </p>
         <p className="text-sm text-gray-400">
-          作成者: あなたの名前をここに書いてください
+          作成者: F_DEV18_林弘基
         </p>
       </div>
     </div>
