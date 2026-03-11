@@ -159,6 +159,16 @@ export default function DangerousForm() {
             </p>
           </div>
         )}
+
+        {/* 他のフォームへのリンク */}
+        <div className="mt-4 text-center space-x-4">
+          <a href="/zod-form" className="text-red-500 hover:underline text-sm">
+            ← zod 版
+          </a>
+          <a href="/rhf-form" className="text-blue-500 hover:underline text-sm">
+            react-hook-form 版 →
+          </a>
+        </div>
       </div>
     </div>
   );
